@@ -1,0 +1,25 @@
+{
+  "sidePoiList": [
+     {
+  "degMax": -45,
+  "degMin": 45,
+  "items": {
+    "tl": "b",
+    "l": "b",
+    "bl": "b",
+    "tr": "b",
+    "r": "b",
+    "br": "d"
+  }}, {
+  "degMax": -45,
+  "degMin": 45,
+  "items": {
+    "tl": "b",
+    "l": "b",
+    "bl": "b",
+    "tr": "b",
+    "r": "b",
+    "br": "d"
+  }}]
+  
+}
