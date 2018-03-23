@@ -1,25 +1,76 @@
 {
   "sidePoiList": [
-     {
-  "degMax": -45,
-  "degMin": 45,
-  "items": {
-    "tl": "b",
-    "l": "b",
-    "bl": "b",
-    "tr": "b",
-    "r": "b",
-    "br": "d"
-  }}, {
-  "degMax": -45,
-  "degMin": 45,
-  "items": {
-    "tl": "b",
-    "l": "b",
-    "bl": "b",
-    "tr": "b",
-    "r": "b",
-    "br": "d"
-  }}]
-  
+    {
+      "degMax": 360,
+      "degMin": 301,
+      "items": {
+        "tl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/q_golf.jpg",
+        "l": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/sushi.jpg",
+        "bl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/watsons.jpg",
+        "tr": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_1.jpg",
+        "r": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_3.jpg",
+        "br": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_5.jpg"
+      }
+    },
+    {
+      "degMax": 300,
+      "degMin": 241,
+      "items": {
+        "tl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/pacsafe.jpg",
+        "l": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/q_wine.jpg",
+        "bl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/taste.jpg",
+        "tr": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/q_golf.jpg",
+        "r": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/sushi.jpg",
+        "br": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/watsons.jpg"
+      }
+    },
+    {
+      "degMax": 240,
+      "degMin": 181,
+      "items": {
+        "tl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/b_2.jpg",
+        "l": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/deli_o.jpg",
+        "bl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/hsbc.jpg",
+        "tr": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/pacsafe.jpg",
+        "r": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/q_wine.jpg",
+        "br": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/taste.jpg"
+      }
+    },
+    {
+      "degMax": 180,
+      "degMin": 121,
+      "items": {
+        "tl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/b_1.jpg",
+        "l": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/bea.jpg",
+        "bl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/g2000.jpg",
+        "tr": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/b_2.jpg",
+        "r": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/deli_o.jpg",
+        "br": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/hsbc.jpg"
+      }
+    },
+    {
+      "degMax": 120,
+      "degMin": 61,
+      "items": {
+        "tl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_2.jpg",
+        "l": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_4.jpg",
+        "bl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ajisen.jpg",
+        "tr": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/b_1.jpg",
+        "r": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/bea.jpg",
+        "br": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/g2000.jpg"
+      }
+    },
+    {
+      "degMax": 60,
+      "degMin": 0,
+      "items": {
+        "tl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_1.jpg",
+        "l": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_3.jpg",
+        "bl": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_5.jpg",
+        "tr": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_2.jpg",
+        "r": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ad_4.jpg",
+        "br": "https://raw.githubusercontent.com/dcnc123/mockApiEngine/master/imgs/ajisen.jpg"
+      }
+    }
+  ]
 }
